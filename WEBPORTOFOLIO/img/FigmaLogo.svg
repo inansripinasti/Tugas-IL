@@ -1,0 +1,14 @@
+<svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="FigmaLogo" clip-path="url(#clip0_603_827)">
+<path id="Vector" d="M23.625 22.5C26.1103 22.5 28.125 20.4853 28.125 18C28.125 15.5147 26.1103 13.5 23.625 13.5C21.1397 13.5 19.125 15.5147 19.125 18C19.125 20.4853 21.1397 22.5 23.625 22.5Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M19.125 13.5H23.625C24.8185 13.5 25.9631 13.0259 26.807 12.182C27.6509 11.3381 28.125 10.1935 28.125 9C28.125 7.80653 27.6509 6.66193 26.807 5.81802C25.9631 4.97411 24.8185 4.5 23.625 4.5H19.125" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_3" d="M19.125 4.5H13.5C12.3065 4.5 11.1619 4.97411 10.318 5.81802C9.47411 6.66193 9 7.80653 9 9C9 10.1935 9.47411 11.3381 10.318 12.182C11.1619 13.0259 12.3065 13.5 13.5 13.5H19.125V4.5Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_4" d="M19.125 13.5H13.5C12.3065 13.5 11.1619 13.9741 10.318 14.818C9.47411 15.6619 9 16.8065 9 18C9 19.1935 9.47411 20.3381 10.318 21.182C11.1619 22.0259 12.3065 22.5 13.5 22.5H19.125V13.5Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_5" d="M19.125 22.5H14.0625C13.0612 22.5 12.0825 22.7969 11.2499 23.3532C10.4174 23.9095 9.76853 24.7001 9.38536 25.6252C9.00219 26.5502 8.90194 27.5681 9.09728 28.5501C9.29261 29.5322 9.77477 30.4342 10.4828 31.1422C11.1908 31.8502 12.0928 32.3324 13.0749 32.5277C14.0569 32.7231 15.0748 32.6228 15.9998 32.2396C16.9249 31.8565 17.7155 31.2076 18.2718 30.3751C18.8281 29.5426 19.125 28.5638 19.125 27.5625V22.5Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_603_827">
+<rect width="36" height="36" fill="white"/>
+</clipPath>
+</defs>
+</svg>
